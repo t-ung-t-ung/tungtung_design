@@ -1,9 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T05:16:34.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.1" etag="XNIYKqw_f1lLl_UJSU7M" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T07:11:25.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tN3i9j7HnbaMCynKbwmV" version="21.1.1" type="github">
   <diagram name="페이지-1" id="X7styzBbvuLEdFHgyos6">
-    <mxGraphModel>
+    <mxGraphModel dx="789" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-15" value="&lt;h1&gt;Around &lt;br&gt;Flow Chart&lt;/h1&gt;&lt;p&gt;Descrpition&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-25" value="&lt;h2&gt;0. Login&lt;/h2&gt;&lt;p&gt;Description&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-26" value="&lt;h2&gt;1. Rounge&lt;/h2&gt;&lt;p&gt;Description&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-27" value="&lt;h2&gt;2. Around&lt;/h2&gt;&lt;p&gt;Description&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-28" value="&lt;h2&gt;3. My Promise&lt;/h2&gt;Description" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-29" value="&lt;h2&gt;4. Mypage&lt;/h2&gt;Description" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-34" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S7F_FZHUw4OV9LXnL7RT-31" target="S7F_FZHUw4OV9LXnL7RT-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-31" value="Press Start" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=10;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-40" value="no account" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S7F_FZHUw4OV9LXnL7RT-33" target="S7F_FZHUw4OV9LXnL7RT-39">
+          <mxGeometry x="0.0038" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-45" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S7F_FZHUw4OV9LXnL7RT-33" target="S7F_FZHUw4OV9LXnL7RT-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-46" value="account&lt;br&gt;exist" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S7F_FZHUw4OV9LXnL7RT-45">
+          <mxGeometry x="-0.2385" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-33" value="Select Login&lt;br style=&quot;font-size: 10px;&quot;&gt;Service" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-38" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S7F_FZHUw4OV9LXnL7RT-37" target="S7F_FZHUw4OV9LXnL7RT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-37" value="Launch App" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-39" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S7F_FZHUw4OV9LXnL7RT-44" value="" style="whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
